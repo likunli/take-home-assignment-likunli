@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99ea9c2567a06c374fa3860d6a209a30",
+    "revision": "9d2cd4dee9b170a6346db34bed417b41",
     "url": "/take-home-assignment-likunli/index.html"
   },
   {
-    "revision": "c8ce6cf6dc87d778591f",
-    "url": "/take-home-assignment-likunli/static/css/main.616b2ec9.chunk.css"
+    "revision": "61dcc6aeb0c6a674d903",
+    "url": "/take-home-assignment-likunli/static/css/main.58a98c3b.chunk.css"
   },
   {
     "revision": "4757dafa62d2647a778e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8ce6cf6dc87d778591f",
+    "revision": "61dcc6aeb0c6a674d903",
     "url": "/take-home-assignment-likunli/static/js/main.973a4151.chunk.js"
   },
   {
