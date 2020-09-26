@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/take-home-assignment-likunli/precache-manifest.ff94cd2849048ab1b6b695c00c810699.js"
+  "/take-home-assignment-likunli/precache-manifest.161f7418e33f65f789453aafae97ca6e.js"
 );
 
 self.addEventListener('message', (event) => {
