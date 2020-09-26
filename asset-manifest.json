@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/take-home-assignment-likunli/static/css/main.616b2ec9.chunk.css",
+    "main.css": "/take-home-assignment-likunli/static/css/main.58a98c3b.chunk.css",
     "main.js": "/take-home-assignment-likunli/static/js/main.973a4151.chunk.js",
     "main.js.map": "/take-home-assignment-likunli/static/js/main.973a4151.chunk.js.map",
     "runtime-main.js": "/take-home-assignment-likunli/static/js/runtime-main.513f61e4.js",
@@ -8,15 +8,15 @@
     "static/js/2.260107a5.chunk.js": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js",
     "static/js/2.260107a5.chunk.js.map": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js.map",
     "index.html": "/take-home-assignment-likunli/index.html",
-    "precache-manifest.3d8769a8e40b0f983c60aa9906df9842.js": "/take-home-assignment-likunli/precache-manifest.3d8769a8e40b0f983c60aa9906df9842.js",
+    "precache-manifest.2ee08bf146fe28885dab48586e62ab8f.js": "/take-home-assignment-likunli/precache-manifest.2ee08bf146fe28885dab48586e62ab8f.js",
     "service-worker.js": "/take-home-assignment-likunli/service-worker.js",
-    "static/css/main.616b2ec9.chunk.css.map": "/take-home-assignment-likunli/static/css/main.616b2ec9.chunk.css.map",
+    "static/css/main.58a98c3b.chunk.css.map": "/take-home-assignment-likunli/static/css/main.58a98c3b.chunk.css.map",
     "static/js/2.260107a5.chunk.js.LICENSE.txt": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.513f61e4.js",
     "static/js/2.260107a5.chunk.js",
-    "static/css/main.616b2ec9.chunk.css",
+    "static/css/main.58a98c3b.chunk.css",
     "static/js/main.973a4151.chunk.js"
   ]
 }
