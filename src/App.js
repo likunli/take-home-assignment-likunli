@@ -23,8 +23,7 @@ const App = () => {
         <Switch>
           {/* For convenience, currently only show ProductSalesDashboard page */}
           <Route exact path="/" component={ProductSalesDashboard} />
-          <Route exact path="/product/:pid" component={ProductSalesDashboard} />
-          <Route exact path="/product/:pid/sales" component={ProductSalesDashboard} />
+          <Route exact path="/overview" component={ProductSalesDashboard} />
           <Route path="*">
             <Redirect to="/" />
           </Route>
