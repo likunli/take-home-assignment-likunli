@@ -11,7 +11,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <Router basename="/take-home-assignment-likunli">
+      <Router>
         <App />
       </Router>
     </Provider>

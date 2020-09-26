@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import { PRODUCT_TABLE_COLUMN } from '../../constants/constant';
 import { RiArrowDropDownLine } from 'react-icons/ri';
