@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//likunli.github.io/take-home-assignment-likunli/static/css/main.6bfcedac.chunk.css",
+    "main.js": "//likunli.github.io/take-home-assignment-likunli/static/js/main.848e0e8c.chunk.js",
+    "main.js.map": "//likunli.github.io/take-home-assignment-likunli/static/js/main.848e0e8c.chunk.js.map",
+    "runtime-main.js": "//likunli.github.io/take-home-assignment-likunli/static/js/runtime-main.e00699b8.js",
+    "runtime-main.js.map": "//likunli.github.io/take-home-assignment-likunli/static/js/runtime-main.e00699b8.js.map",
+    "static/js/2.f5a4b36e.chunk.js": "//likunli.github.io/take-home-assignment-likunli/static/js/2.f5a4b36e.chunk.js",
+    "static/js/2.f5a4b36e.chunk.js.map": "//likunli.github.io/take-home-assignment-likunli/static/js/2.f5a4b36e.chunk.js.map",
+    "index.html": "//likunli.github.io/take-home-assignment-likunli/index.html",
+    "precache-manifest.93ac4647bbb06662dd87d3cdbb4c6cde.js": "//likunli.github.io/take-home-assignment-likunli/precache-manifest.93ac4647bbb06662dd87d3cdbb4c6cde.js",
+    "service-worker.js": "//likunli.github.io/take-home-assignment-likunli/service-worker.js",
+    "static/css/main.6bfcedac.chunk.css.map": "//likunli.github.io/take-home-assignment-likunli/static/css/main.6bfcedac.chunk.css.map",
+    "static/js/2.f5a4b36e.chunk.js.LICENSE.txt": "//likunli.github.io/take-home-assignment-likunli/static/js/2.f5a4b36e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e00699b8.js",
+    "static/js/2.f5a4b36e.chunk.js",
+    "static/css/main.6bfcedac.chunk.css",
+    "static/js/main.848e0e8c.chunk.js"
+  ]
+}
