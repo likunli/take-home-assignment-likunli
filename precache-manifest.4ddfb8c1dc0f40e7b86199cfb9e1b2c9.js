@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d2cd4dee9b170a6346db34bed417b41",
+    "revision": "0d7820bec9aa3f4ac169855c47f3b595",
     "url": "/take-home-assignment-likunli/index.html"
   },
   {
-    "revision": "61dcc6aeb0c6a674d903",
+    "revision": "84697343fe26068f95c0",
     "url": "/take-home-assignment-likunli/static/css/main.58a98c3b.chunk.css"
   },
   {
-    "revision": "4757dafa62d2647a778e",
-    "url": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js"
+    "revision": "d3535d3ecef866bd18b0",
+    "url": "/take-home-assignment-likunli/static/js/2.0acc0e2d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js.LICENSE.txt"
+    "url": "/take-home-assignment-likunli/static/js/2.0acc0e2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61dcc6aeb0c6a674d903",
-    "url": "/take-home-assignment-likunli/static/js/main.973a4151.chunk.js"
+    "revision": "84697343fe26068f95c0",
+    "url": "/take-home-assignment-likunli/static/js/main.18291188.chunk.js"
   },
   {
     "revision": "bc7e5548c5b8cbd066c2",
