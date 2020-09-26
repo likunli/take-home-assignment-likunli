@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  background-color: var(--widget-bg-color);
+  height: 2.2rem;
+  padding: 1.2rem;
+  align-items: center;
+  border-bottom: 0.05rem solid var(--box-shadow-color);
+}
+
+.header > .stackline-logo {
+  height: 1.6rem;
+}

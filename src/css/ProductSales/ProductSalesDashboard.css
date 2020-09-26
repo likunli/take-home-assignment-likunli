@@ -1,0 +1,6 @@
+.product-sales-dashboard {
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+}
+

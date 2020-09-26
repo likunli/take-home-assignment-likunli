@@ -1,0 +1,12 @@
+.product-side-bar-container {
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--widget-bg-color);
+  box-shadow: 0 0.6rem 0.6rem 0 var(--box-shadow-color);
+  border-radius: 0.3rem;
+}
+
+.product-side-bar-container > :not(:last-child) {
+  border-bottom: 1px solid var(--box-shadow-color);
+}

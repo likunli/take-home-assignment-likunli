@@ -1,0 +1,16 @@
+.product-tags {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  padding: 0.5rem 1rem 0 1rem;
+}
+
+.tag {
+  margin: 0rem 0.2rem 0.5rem 0.2rem;
+  padding: 0.2rem 1rem;
+  color: var(--primary-color);
+  font-weight: 300;
+  font-size: 0.9rem;
+  border: 0.6px solid var(--box-shadow-color);
+  border-radius: 0.3rem;
+}

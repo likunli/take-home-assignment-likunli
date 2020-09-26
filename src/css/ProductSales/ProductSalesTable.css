@@ -1,0 +1,52 @@
+.product-sales-table-container {
+  margin-top: 2rem;
+  position: relative;
+  overflow-y: auto;
+  background-color: var(--widget-bg-color);
+  max-height: 40rem;
+  box-shadow: 0 0.6rem 0.6rem 0 var(--box-shadow-color);
+  border-radius: 0.3rem;
+}
+
+.product-sales-table {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.product-sales-table th {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: var(--widget-bg-color);
+  cursor: pointer;
+}
+
+.product-sales-table .icon {
+  width: 1.2rem;
+  height: 1.2rem;
+  display: inline-block;
+  vertical-align: middle;
+  color: var(--secondary-color);
+}
+
+.product-sales-table th.selected, .product-sales-table th.selected > .icon {
+  color: var(--selected-blue);
+}
+
+.product-sales-table th {
+  border-bottom: 0.1rem solid var(--box-shadow-color);
+  color: var(--primary-color);
+  padding: 2rem;
+  text-align: right;
+  font-weight: 400;
+  font-size: 0.95rem;
+}
+
+.product-sales-table td {
+  border-bottom: 0.1rem solid var(--box-shadow-color);
+  color: var(--secondary-color);
+  text-align: right;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+}

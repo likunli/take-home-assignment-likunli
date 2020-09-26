@@ -1,0 +1,54 @@
+.product-sales-chart {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  height: 29rem;
+  box-shadow: 0 0.6rem 0.6rem 0 var(--box-shadow-color);
+  border-radius: 0.3rem;
+}
+
+.sales-chart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+}
+
+.sales-chart-label {
+  font-size: 1.1rem;
+  font-weight: 200rem;
+}
+
+.retail-sales {
+  stroke: var(--chart-blue);
+  stroke-width: 0.2rem;
+  fill: none;
+}
+
+.wholesale-sales {
+  stroke: var(--chart-grey);
+  stroke-width: 0.2rem;
+  fill: none;
+}
+
+
+
+.sales-chart {
+  width: 100%;
+  height: 20rem;
+}
+
+.months {
+  display: flex;
+  border-top: 0.1rem solid var(--box-shadow-color);
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 0rem 2rem;
+  box-sizing: border-box;
+  color: var(--secondary-color);
+}
+

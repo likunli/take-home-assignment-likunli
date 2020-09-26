@@ -1,0 +1,18 @@
+.page-wrapper {
+  background-color: var(--bg-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  height: auto;
+
+}
+
+.product-section {
+  flex: auto;
+  margin: 4rem 1.5rem;
+  display: flex;
+}
+
+.product-section > :not(:last-child) {
+  margin-right: 1.5rem;
+}

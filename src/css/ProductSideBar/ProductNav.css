@@ -1,0 +1,40 @@
+.product-sidebar-nav li {
+  list-style: none;
+  padding: 1rem;
+  color: var(--secondary-color);
+  font-weight: bold;
+}
+
+.product-sidebar-nav ul {
+  margin: 1rem;
+  padding: 0;
+}
+
+.nav-item .icon {
+  height: 2rem;
+  width: 2rem;
+  margin-right: 0.5rem;
+}
+
+.product-sidebar-nav a {
+  text-decoration: none; 
+}
+
+.product-sidebar-nav a,
+.product-sidebar-nav a:visited,
+.product-sidebar-nav a:active {
+  color: var(--secondary-color);
+}
+
+.product-sidebar-nav a.selected {
+  color: var(--primary-color);
+}
+
+.product-sidebar-nav a.selected .icon {
+  color: var(--selected-blue);
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+}

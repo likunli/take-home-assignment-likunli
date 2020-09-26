@@ -1,0 +1,13 @@
+module.exports = {
+  LABELS: {
+    RETAIL_SALES: 'Retail Sales',
+  },
+  PRODUCT_TABLE_COLUMN: {
+    WEEK_ENDING: 'WEEK ENDING',
+    RETAIL_SALES: 'RETAIL SALES',
+    WHOLESALE_SALES: 'WHOLESALE SALES',
+    UNITS_SOLD: 'UNITS SOLD',
+    RETAILER_MARGIN: 'RETAILER MARGIN'
+  },
+  MONTHS: ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']
+}
