@@ -1,4 +1,3 @@
-
 :root {
   --bg-color: #f8f8f8;
   --widget-bg-color: white;
@@ -14,7 +13,19 @@
   font-size: 14px;
 }
 
-html, body, #root {
+@media screen and (max-width: 900px) {
+
+  html,
+  body,
+  #root {
+    font-size: 8px;
+  }
+
+}
+
+html,
+body,
+#root {
   height: 100%;
   width: 100%;
   margin: 0;

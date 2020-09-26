@@ -38,3 +38,23 @@
   display: flex;
   align-items: center;
 }
+
+@media screen and (max-width: 900px) {
+  .nav-item .icon {
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+
+  .product-sidebar-nav li {
+    list-style: none;
+    padding: 0.5rem;
+    color: var(--secondary-color);
+    font-weight: bold;
+  }
+  
+  .product-sidebar-nav ul {
+    margin: 0.5rem;
+    padding: 0;
+  }
+
+}

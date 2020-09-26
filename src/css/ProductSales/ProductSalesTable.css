@@ -50,3 +50,15 @@
   font-size: 1rem;
   padding: 1rem 2rem;
 }
+
+@media screen and (max-width: 900px) {
+
+  .product-sales-table-container {
+    max-height: 20rem;
+  }
+
+  .product-sales-table th, .product-sales-table td {
+    font-size: 0.4rem;
+    padding: 1rem 1rem;
+  }
+}

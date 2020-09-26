@@ -3,13 +3,14 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 2rem;
-  height: 29rem;
+  height: 28rem;
   box-shadow: 0 0.6rem 0.6rem 0 var(--box-shadow-color);
   border-radius: 0.3rem;
 }
 
 .sales-chart-container {
   display: flex;
+  flex: 7;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
@@ -37,10 +38,11 @@
 
 .sales-chart {
   width: 100%;
-  height: 20rem;
+  height: 100%;
 }
 
 .months {
+  flex: 1;
   display: flex;
   border-top: 0.1rem solid var(--box-shadow-color);
   justify-content: space-between;
@@ -52,3 +54,26 @@
   color: var(--secondary-color);
 }
 
+
+@media screen and (max-width: 900px) {
+  .sales-chart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 1rem;
+  }
+
+  .months {
+    height: 2rem;
+    display: flex;
+    border-top: 0.1rem solid var(--box-shadow-color);
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0rem 1rem;
+    box-sizing: border-box;
+    color: var(--secondary-color);
+  }
+  
+}
