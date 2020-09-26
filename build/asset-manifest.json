@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/take-home-assignment-likunli/static/css/main.6bfcedac.chunk.css",
-    "main.js": "/take-home-assignment-likunli/static/js/main.d34b4a10.chunk.js",
-    "main.js.map": "/take-home-assignment-likunli/static/js/main.d34b4a10.chunk.js.map",
+    "main.css": "/take-home-assignment-likunli/static/css/main.616b2ec9.chunk.css",
+    "main.js": "/take-home-assignment-likunli/static/js/main.6e88c9d5.chunk.js",
+    "main.js.map": "/take-home-assignment-likunli/static/js/main.6e88c9d5.chunk.js.map",
     "runtime-main.js": "/take-home-assignment-likunli/static/js/runtime-main.513f61e4.js",
     "runtime-main.js.map": "/take-home-assignment-likunli/static/js/runtime-main.513f61e4.js.map",
     "static/js/2.260107a5.chunk.js": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js",
     "static/js/2.260107a5.chunk.js.map": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js.map",
     "index.html": "/take-home-assignment-likunli/index.html",
-    "precache-manifest.161f7418e33f65f789453aafae97ca6e.js": "/take-home-assignment-likunli/precache-manifest.161f7418e33f65f789453aafae97ca6e.js",
+    "precache-manifest.1ffa40ce103f278c4df60e5fb42838b5.js": "/take-home-assignment-likunli/precache-manifest.1ffa40ce103f278c4df60e5fb42838b5.js",
     "service-worker.js": "/take-home-assignment-likunli/service-worker.js",
-    "static/css/main.6bfcedac.chunk.css.map": "/take-home-assignment-likunli/static/css/main.6bfcedac.chunk.css.map",
+    "static/css/main.616b2ec9.chunk.css.map": "/take-home-assignment-likunli/static/css/main.616b2ec9.chunk.css.map",
     "static/js/2.260107a5.chunk.js.LICENSE.txt": "/take-home-assignment-likunli/static/js/2.260107a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.513f61e4.js",
     "static/js/2.260107a5.chunk.js",
-    "static/css/main.6bfcedac.chunk.css",
-    "static/js/main.d34b4a10.chunk.js"
+    "static/css/main.616b2ec9.chunk.css",
+    "static/js/main.6e88c9d5.chunk.js"
   ]
 }

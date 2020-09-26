@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import Header from './components/Header';
 import ProductSideBarContainer from './components/ProductSideBar/ProductSideBarContainer';
 import ProductSalesDashboard from './components/ProductSales/ProductSalesDashboard';
@@ -23,8 +23,8 @@ const App = () => {
         <Switch>
           {/* For convenience, currently only show ProductSalesDashboard page */}
           <Route exact path="/" component={ProductSalesDashboard} />
-          <Route exact path="/product/:id" component={ProductSalesDashboard} />
-          <Route exact path="/product/:id/sales" component={ProductSalesDashboard} />
+          <Route exact path="/product/:pid" component={ProductSalesDashboard} />
+          <Route exact path="/product/:pid/sales" component={ProductSalesDashboard} />
           <Route path="*">
             <Redirect to="/" />
           </Route>
