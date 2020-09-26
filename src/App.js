@@ -15,10 +15,6 @@ const App = () => {
     dispatch(getProduct(dispatch))
   }, [dispatch]);
 
-  const sta = useSelector((state) => state);
-  console.log(1111);
-  console.log(sta);
-
   return (
     <div className="page-wrapper">
       <Header />
