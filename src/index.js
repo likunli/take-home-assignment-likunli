@@ -7,10 +7,11 @@ import store from './redux/store';
 import { BrowserRouter as Router } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
+
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <Router>
+      <Router basename="/take-home-assignment-likunli">
         <App />
       </Router>
     </Provider>
